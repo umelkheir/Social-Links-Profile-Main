@@ -63,7 +63,7 @@ h3{
 .btn:hover{
     cursor: pointer;
     background-color: hsl(75, 94%, 57%);
-    color: black!important;
+    color: black;
     
 }
 
