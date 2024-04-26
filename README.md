@@ -25,7 +25,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
+- Solution URL: https://www.frontendmentor.io/solutions/social-links-profile-bW5L23ztoR
 - Live Site URL: https://umelkheir.github.io/Social-Links-Profile-Main/
 
 ## My process
