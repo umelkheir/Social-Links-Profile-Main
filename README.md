@@ -6,7 +6,6 @@ This is a solution to the [Social links profile challenge on Frontend Mentor](ht
 
 - [Overview](#overview)
   - [The challenge](#the-challenge)
-  - [Screenshot](#screenshot)
   - [Links](#links)
 - [My process](#my-process)
   - [Built with](#built-with)
@@ -23,12 +22,6 @@ This is a solution to the [Social links profile challenge on Frontend Mentor](ht
 Users should be able to:
 
 - See hover and focus states for all interactive elements on the page
-
-### Screenshot
-
-Mobile view (./Screen Shot 2024-04-26 at 14.54.51.png)
-
-Desktop view (./Desktop display.jpg)
 
 ### Links
 
