@@ -26,7 +26,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Live Site URL: https://umelkheir.github.io/Social-Links-Profile-Main/
 
 ## My process
 I built the HTML and CSS with mobile responsiveness in mind. Which made it easier for me to build it desktop responsiveness.
